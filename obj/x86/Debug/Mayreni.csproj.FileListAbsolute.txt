@@ -1,0 +1,6 @@
+C:\Users\rp\Desktop\Mayreni\bin\Debug\Mayreni.exe.config
+C:\Users\rp\Desktop\Mayreni\bin\Debug\Mayreni.exe
+C:\Users\rp\Desktop\Mayreni\bin\Debug\Mayreni.pdb
+C:\Users\rp\Desktop\Mayreni\obj\x86\Debug\Mayreni.exe
+C:\Users\rp\Desktop\Mayreni\obj\x86\Debug\Mayreni.pdb
+C:\Users\rp\Desktop\Mayreni\obj\x86\Debug\Mayreni.csprojResolveAssemblyReference.cache
